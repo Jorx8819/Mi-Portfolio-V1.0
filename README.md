@@ -68,7 +68,7 @@ El portfolio es **altamente personalizable**:
 
 ## ⚡ Enlace al portfolio
 > Para experimentar toda la interactividad, animaciones y efectos:  
-🌐 portfoliojorgefernandezmartinez.netlify.app](https://portfoliojorgefernandezmartinez.netlify.app/
+🌐  https://portfoliojorgefernandezmartinez.netlify.app/
 
 ---
 
